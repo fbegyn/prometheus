@@ -3,6 +3,10 @@
 /*.yaml
 /*.yml
 *.exe
+*.deb
+
+bin
+!nfpm.yaml
 
 /prometheus
 /promtool
