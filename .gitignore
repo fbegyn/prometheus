@@ -7,6 +7,7 @@
 
 bin
 !nfpm.yaml
+!prometheus.yml
 
 /prometheus
 /promtool
